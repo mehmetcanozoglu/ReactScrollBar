@@ -1,0 +1,17 @@
+.progressMainWrapper{
+    top: 0;
+    width: 100%;
+    height: 20px;
+    background-color: grey;
+    position: fixed;
+}
+.progressMainStyle{
+    height: 100%;
+    background-color: rebeccapurple;
+}
+p{
+   width: 70%;
+   margin: 0 auto;
+   color: #393E46;
+   text-align: left;
+}
